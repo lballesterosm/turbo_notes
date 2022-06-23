@@ -23,6 +23,8 @@ These guides are presented as quick reference for testing only.
 
 In the following links, you can find the most common targets for Turbonomic tests.
 
+[VMWare target configuration](https://github.com/lballesterosm/turbo_notes/wiki/VMWare)
+
 [Azure target configuration](https://github.com/lballesterosm/turbo_notes/wiki/Azure)
 
 [AWS target configuration](https://github.com/lballesterosm/turbo_notes/wiki/AWS)
