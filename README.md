@@ -17,7 +17,7 @@ These guides are presented as quick reference for testing only.
 
 [Turbonomic Installation (on VMware)](https://github.com/lballesterosm/turbo_notes/wiki/Turbonomic-on-VMWare)
 
-[Turbonomic Installation (on Kubernetes)](https://github.com/lballesterosm/turbo_notes/wiki/Turbonomic-on-k8s-(Working-progress...))
+[Turbonomic Installation (on Kubernetes)](https://github.com/lballesterosm/turbo_notes/wiki/Turbonomic-on-k8s)
 
 
 ## Turbonomic Target Configuration
