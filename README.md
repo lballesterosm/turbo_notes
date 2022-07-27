@@ -1,7 +1,9 @@
 # turbo_notes
+
 ## Turbonomic notes and files
-This is a personal repository and IBM or Turbonomic has no responsability for the content or it's accuracy.
-All the files and procedures are based on the official documentation with some information from PoC experiencies and personal tests.
+This is a personal repository and IBM or Turbonomic has no responsibility for the content or it's accuracy.
+All the files and procedures are based on the official documentation with some information from PoC experiences and personal tests.
+These guides are constantly being updated, so please consider it as "working progress".
 
 ## Welcome!
 Welcome to the turbo_notes wiki! These guides are notes from the field and and are intended for testing purposes.
@@ -9,7 +11,7 @@ If you need to deploy Turbonomic for production environments, please see the off
 
 ## Turbonomic Server Installation
 You can install Turbonomic server as a traditional virtual machine (on MS Hyper-v or VMWare) or as container on a Kubernetes cluster/Openshift cluster using operators.
-In this document i'll present the 2 must popular installation: on VMWare and on Kubernetes.
+In this document i'll present the 2 must common installation methods: on VMWare and on Kubernetes.
 
 **Important**
 
@@ -30,3 +32,6 @@ In the following links, you can find the most common targets for Turbonomic test
 
 [AWS target configuration](https://github.com/lballesterosm/turbo_notes/wiki/AWS)
 
+[GCP target configuration](https://github.com/lballesterosm/turbo_notes/wiki/GCP)
+
+[Kubernetes or Openshift](https://github.com/lballesterosm/turbo_notes/wiki/Kubernetes-or-Openshift)
